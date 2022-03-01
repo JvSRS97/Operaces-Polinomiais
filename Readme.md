@@ -1,0 +1,1 @@
+Este programa foi criado com o intuito de realizar operações com polinômios. Destaque principal para a biblioteca criada "struct.h", a qual foi incluída funções referentes à operações polinomiais.
